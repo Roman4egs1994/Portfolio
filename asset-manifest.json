@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.84889f45.css",
-    "main.js": "/Portfolio/static/js/main.3ef8bd89.js",
+    "main.css": "/Portfolio/static/css/main.774e8b39.css",
+    "main.js": "/Portfolio/static/js/main.85e915f0.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/item-6.jpg": "/Portfolio/static/media/item-6.2c6907f122b2c16f4d7d.jpg",
     "static/media/item-4.jpg": "/Portfolio/static/media/item-4.0f89421a466080b93ac7.jpg",
@@ -10,13 +10,16 @@
     "static/media/item-1.jpg": "/Portfolio/static/media/item-1.4849ba0eb24bbc85b22c.jpg",
     "static/media/item-2.jpg": "/Portfolio/static/media/item-2.45e24783fd52ce7d6826.jpg",
     "static/media/item-3.jpg": "/Portfolio/static/media/item-3.b17f027fa57ab66bf439.jpg",
+    "static/media/reactIcon.png": "/Portfolio/static/media/reactIcon.31efbd593d34f0cbbae9.png",
+    "static/media/reduxIcon.png": "/Portfolio/static/media/reduxIcon.9d46587d436226ba4813.png",
+    "static/media/storybookIcon.png": "/Portfolio/static/media/storybookIcon.c0d11e818db3ec44a924.png",
     "index.html": "/Portfolio/index.html",
-    "main.84889f45.css.map": "/Portfolio/static/css/main.84889f45.css.map",
-    "main.3ef8bd89.js.map": "/Portfolio/static/js/main.3ef8bd89.js.map",
+    "main.774e8b39.css.map": "/Portfolio/static/css/main.774e8b39.css.map",
+    "main.85e915f0.js.map": "/Portfolio/static/js/main.85e915f0.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84889f45.css",
-    "static/js/main.3ef8bd89.js"
+    "static/css/main.774e8b39.css",
+    "static/js/main.85e915f0.js"
   ]
 }
